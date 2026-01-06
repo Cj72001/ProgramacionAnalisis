@@ -1,0 +1,15 @@
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\ConsoleAppTest\bin\Debug\net9.0\ConsoleAppTest.exe
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\ConsoleAppTest\bin\Debug\net9.0\ConsoleAppTest.deps.json
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\ConsoleAppTest\bin\Debug\net9.0\ConsoleAppTest.runtimeconfig.json
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\ConsoleAppTest\bin\Debug\net9.0\ConsoleAppTest.dll
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\ConsoleAppTest\bin\Debug\net9.0\ConsoleAppTest.pdb
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\ConsoleAppTest\obj\Debug\net9.0\ConsoleAppTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\ConsoleAppTest\obj\Debug\net9.0\ConsoleAppTest.AssemblyInfoInputs.cache
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\ConsoleAppTest\obj\Debug\net9.0\ConsoleAppTest.AssemblyInfo.cs
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\ConsoleAppTest\obj\Debug\net9.0\ConsoleAppTest.csproj.CoreCompileInputs.cache
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\ConsoleAppTest\obj\Debug\net9.0\ConsoleAppTest.sourcelink.json
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\ConsoleAppTest\obj\Debug\net9.0\ConsoleAppTest.dll
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\ConsoleAppTest\obj\Debug\net9.0\refint\ConsoleAppTest.dll
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\ConsoleAppTest\obj\Debug\net9.0\ConsoleAppTest.pdb
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\ConsoleAppTest\obj\Debug\net9.0\ConsoleAppTest.genruntimeconfig.cache
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\ConsoleAppTest\obj\Debug\net9.0\ref\ConsoleAppTest.dll
