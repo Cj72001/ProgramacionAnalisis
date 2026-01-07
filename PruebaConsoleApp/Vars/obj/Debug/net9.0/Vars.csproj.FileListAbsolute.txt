@@ -1,0 +1,15 @@
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\Vars\obj\Debug\net9.0\Vars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\Vars\obj\Debug\net9.0\Vars.AssemblyInfoInputs.cache
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\Vars\obj\Debug\net9.0\Vars.AssemblyInfo.cs
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\Vars\obj\Debug\net9.0\Vars.csproj.CoreCompileInputs.cache
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\Vars\obj\Debug\net9.0\Vars.sourcelink.json
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\Vars\bin\Debug\net9.0\Vars.exe
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\Vars\bin\Debug\net9.0\Vars.deps.json
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\Vars\bin\Debug\net9.0\Vars.runtimeconfig.json
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\Vars\bin\Debug\net9.0\Vars.dll
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\Vars\bin\Debug\net9.0\Vars.pdb
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\Vars\obj\Debug\net9.0\Vars.dll
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\Vars\obj\Debug\net9.0\refint\Vars.dll
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\Vars\obj\Debug\net9.0\Vars.pdb
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\Vars\obj\Debug\net9.0\Vars.genruntimeconfig.cache
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\Vars\obj\Debug\net9.0\ref\Vars.dll

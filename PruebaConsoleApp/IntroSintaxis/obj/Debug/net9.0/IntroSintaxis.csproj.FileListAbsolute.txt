@@ -1,0 +1,15 @@
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\IntroSintaxis\bin\Debug\net9.0\IntroSintaxis.exe
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\IntroSintaxis\bin\Debug\net9.0\IntroSintaxis.deps.json
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\IntroSintaxis\bin\Debug\net9.0\IntroSintaxis.runtimeconfig.json
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\IntroSintaxis\bin\Debug\net9.0\IntroSintaxis.dll
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\IntroSintaxis\bin\Debug\net9.0\IntroSintaxis.pdb
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\IntroSintaxis\obj\Debug\net9.0\IntroSintaxis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\IntroSintaxis\obj\Debug\net9.0\IntroSintaxis.AssemblyInfoInputs.cache
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\IntroSintaxis\obj\Debug\net9.0\IntroSintaxis.AssemblyInfo.cs
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\IntroSintaxis\obj\Debug\net9.0\IntroSintaxis.csproj.CoreCompileInputs.cache
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\IntroSintaxis\obj\Debug\net9.0\IntroSintaxis.sourcelink.json
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\IntroSintaxis\obj\Debug\net9.0\IntroSintaxis.dll
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\IntroSintaxis\obj\Debug\net9.0\refint\IntroSintaxis.dll
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\IntroSintaxis\obj\Debug\net9.0\IntroSintaxis.pdb
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\IntroSintaxis\obj\Debug\net9.0\IntroSintaxis.genruntimeconfig.cache
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\IntroSintaxis\obj\Debug\net9.0\ref\IntroSintaxis.dll
