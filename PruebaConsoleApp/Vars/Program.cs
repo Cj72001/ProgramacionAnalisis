@@ -43,6 +43,9 @@ namespace HelloWorld
         Console.WriteLine("Valor del booleano 1: " + booleano1);
         Console.WriteLine("Valor del booleano 2: " + booleano2);
 
+        // Reasignación de valores a las variables
+        // nombreVariable = NuevoValor;
+        numeroEntero1 = 10;
         string cadenaTexto2 = "Valor del entero 1:";
         Console.WriteLine(cadenaTexto2 + numeroEntero1);
 
