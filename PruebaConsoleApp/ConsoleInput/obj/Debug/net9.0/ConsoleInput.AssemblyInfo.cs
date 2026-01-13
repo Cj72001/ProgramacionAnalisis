@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleInput")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa1c5a11c2851a048c49ed353e07951d09d9d1e8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2523253042a376377e5e104946cba88508efdccb")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleInput")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleInput")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
