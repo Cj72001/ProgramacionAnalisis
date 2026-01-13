@@ -1,0 +1,15 @@
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\ConsoleInput\bin\Debug\net9.0\ConsoleInput.exe
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\ConsoleInput\bin\Debug\net9.0\ConsoleInput.deps.json
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\ConsoleInput\bin\Debug\net9.0\ConsoleInput.runtimeconfig.json
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\ConsoleInput\bin\Debug\net9.0\ConsoleInput.dll
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\ConsoleInput\bin\Debug\net9.0\ConsoleInput.pdb
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\ConsoleInput\obj\Debug\net9.0\ConsoleInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\ConsoleInput\obj\Debug\net9.0\ConsoleInput.AssemblyInfoInputs.cache
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\ConsoleInput\obj\Debug\net9.0\ConsoleInput.AssemblyInfo.cs
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\ConsoleInput\obj\Debug\net9.0\ConsoleInput.csproj.CoreCompileInputs.cache
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\ConsoleInput\obj\Debug\net9.0\ConsoleInput.sourcelink.json
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\ConsoleInput\obj\Debug\net9.0\ConsoleInput.dll
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\ConsoleInput\obj\Debug\net9.0\refint\ConsoleInput.dll
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\ConsoleInput\obj\Debug\net9.0\ConsoleInput.pdb
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\ConsoleInput\obj\Debug\net9.0\ConsoleInput.genruntimeconfig.cache
+C:\Users\omarf\Documents\DOCUMENTS\REPOS\ProgramacionAnalisis\PruebaConsoleApp\ConsoleInput\obj\Debug\net9.0\ref\ConsoleInput.dll

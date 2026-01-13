@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroSintaxis", "IntroSinta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vars", "Vars\Vars.csproj", "{75AAF5DC-F286-4982-8E2C-74AB4E810262}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleInput", "ConsoleInput\ConsoleInput.csproj", "{1EE63E85-A50F-4C8F-A137-47CA0FCA9D48}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,18 @@ Global
 		{75AAF5DC-F286-4982-8E2C-74AB4E810262}.Release|x64.Build.0 = Release|Any CPU
 		{75AAF5DC-F286-4982-8E2C-74AB4E810262}.Release|x86.ActiveCfg = Release|Any CPU
 		{75AAF5DC-F286-4982-8E2C-74AB4E810262}.Release|x86.Build.0 = Release|Any CPU
+		{1EE63E85-A50F-4C8F-A137-47CA0FCA9D48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EE63E85-A50F-4C8F-A137-47CA0FCA9D48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EE63E85-A50F-4C8F-A137-47CA0FCA9D48}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1EE63E85-A50F-4C8F-A137-47CA0FCA9D48}.Debug|x64.Build.0 = Debug|Any CPU
+		{1EE63E85-A50F-4C8F-A137-47CA0FCA9D48}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1EE63E85-A50F-4C8F-A137-47CA0FCA9D48}.Debug|x86.Build.0 = Debug|Any CPU
+		{1EE63E85-A50F-4C8F-A137-47CA0FCA9D48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EE63E85-A50F-4C8F-A137-47CA0FCA9D48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EE63E85-A50F-4C8F-A137-47CA0FCA9D48}.Release|x64.ActiveCfg = Release|Any CPU
+		{1EE63E85-A50F-4C8F-A137-47CA0FCA9D48}.Release|x64.Build.0 = Release|Any CPU
+		{1EE63E85-A50F-4C8F-A137-47CA0FCA9D48}.Release|x86.ActiveCfg = Release|Any CPU
+		{1EE63E85-A50F-4C8F-A137-47CA0FCA9D48}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
